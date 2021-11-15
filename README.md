@@ -1,5 +1,5 @@
 # C_learn
-My dicoding C language
+## My dicoding C language
 All files in this repo are only for education.
 
 This Repo contains:
