@@ -1,6 +1,6 @@
 # C_learn
 ## My dicoding C language
-All files in this repo are only for education.
+This repository is for educational purposes only.
 
 This Repo contains:
 1. Read and Write
@@ -10,3 +10,4 @@ This Repo contains:
 5. Loop
 6. Conditional Instruction
 7. Array
+8. Subprogram (Includes several C library application)
