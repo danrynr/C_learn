@@ -2,3 +2,6 @@
 *.h
 *.o
 *.s
+*.so
+*.dylib
+*.dll
